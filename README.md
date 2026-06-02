@@ -16,5 +16,7 @@ python test_and_results_all_in_folder_seg.py
 
 # Data availability
 (1) OpenImagesV6:[....], Extraction Code:[....]
+
 (2) COCO2017:[....], Extraction Code:[....]
+
 (3) SFU:[....], Extraction Code:[....]
