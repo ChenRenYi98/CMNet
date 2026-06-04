@@ -18,4 +18,4 @@ python test_and_results_all_in_folder_seg.py
 (5) numpy==1.22.4  
 
 # Data Availability
-We will release complete model weights and detailed rate-accuracy results after this paper is accepted.
+The complete model weights and detailed rate-accuracy results will be made publicly available upon acceptance of this paper.
